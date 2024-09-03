@@ -1,4 +1,7 @@
-#Portfolio
+Portfolio
+
+
+
 Welcome to my personal portfolio! This website showcases my skills, projects, and experience in web development. It's built using HTML, CSS, and showcases my journey as a developer.
 
 Live Demo
